@@ -4,7 +4,7 @@
 
 ## Overview
 
-CatSDK is the official AI agent framework for **vibecoding** — the chaotic, high-speed, single-file, 60FPS Python-powered development style pioneered by Justin L Liao of AC Holdings.
+CatSDK is the official AI agent framework for **vibecoding** — the chaotic, high-speed, single-file, 60FPS Python-powered development style pioneered by Dr.ac  of AC Holdings.
 
 Built for seamless integration with Grok, CatSDK turns vibe sessions into production-grade prototypes, emulators, tools, and agents at lightspeed.
 
